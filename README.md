@@ -54,7 +54,10 @@ _Called example-ttp-3-gto.mmt` in the paper._
 The [third example](example-3-gto.ipynb) uses the same technique as the second, but this time to explore the effects of varying the Ito conductance in the epicardial model.
 It also shows how to modify a model after loading it.
 
+## Example 4
+_Called example-ttp-4-sensitivity.mmt` in the paper._
 
+The [fourth example](example-4-sensitivity.ipynb) does something more mathematical, and shows how Myokit can be used to calculate the partial derivatives of dependent variables (e.g. state variables or currents) on independent variables (e.g. conductance parameters).
 
 
 
