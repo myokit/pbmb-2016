@@ -33,7 +33,7 @@ You can download this and [the required model file](https://raw.githubuserconten
 
 ## Example 2
 
-The [second example](https://raw.githubusercontent.com/myokit/pbmb-2016/main/example-2-transmural-differences.ipynb), follows up from example 1b, and shows how to change a model variable in a simulation.
+The [second example](example-2-transmural-differences.ipynb), follows up from example 1b, and shows how to change a model variable in a simulation.
 
 
 
