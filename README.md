@@ -2,9 +2,9 @@
 
 This repository contains example models and code accompanying the paper:
 
-Michael Clerx, Pieter Collins, Enno de Lange, and Paul G.A. Volders.
+Michael Clerx, Pieter Collins, Enno de Lange, and Paul G.A. Volders (2016).
 _Myokit: A simple interface to cardiac cellular electrophysiology_.
-Progress in Biophysics and Molecular Biology, 2016, Volume 120, issues 1-3, pages 100-114.
+Progress in Biophysics and Molecular Biology, Volume 120, issues 1-3, pages 100-114.
 [10.1016/j.pbiomolbio.2015.12.008](https://doi.org/10.1016/j.pbiomolbio.2015.12.008).
 
 ![A schematic overview of Myokit's main functionality](overview-v11.png)
