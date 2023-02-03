@@ -8,6 +8,7 @@ Progress in Biophysics and Molecular Biology, Volume 120, issues 1-3, pages 100-
 This repository contains up-to-date example code, adapted from the files originally published with the paper cited above.
 
 An updated version of the schematic describing Myokit is shown below.
+
 ![A schematic overview of Myokit's main functionality](overview-v11.png)
 
 ## Example 1
