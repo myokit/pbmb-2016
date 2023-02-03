@@ -54,7 +54,10 @@ The [second example](example-2-transmural-differences.ipynb), follows up from ex
 
 To cite the paper, use
 
-- Michael Clerx, Pieter Collins, Enno de Lange, Paul G.A. Volders
-  Myokit: A simple interface to cardiac cellular electrophysiology
-  Progress in Biophysics and Molecular Biology, 2016, Volume 120, issues 1-3, pages 100-114
-  doi: [10.1016/j.pbiomolbio.2015.12.008](https://doi.org/10.1016/j.pbiomolbio.2015.12.008)
+**Myokit: A simple interface to cardiac cellular electrophysiology**
+
+Michael Clerx, Pieter Collins, Enno de Lange, Paul G.A. Volders
+
+_Progress in Biophysics and Molecular Biology, 2016, Volume 120, issues 1-3, pages 100-114_
+
+doi: [10.1016/j.pbiomolbio.2015.12.008](https://doi.org/10.1016/j.pbiomolbio.2015.12.008)
