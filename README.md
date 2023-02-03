@@ -12,6 +12,8 @@ An updated version of the schematic describing Myokit is shown below.
 ![A schematic overview of Myokit's main functionality](overview-v11.png)
 
 ## Example 1
+_Called example-ttp-1-model.mmt in the paper._
+
 
 The first example can be opened in the Myokit IDE (the Myokit "app") and contains a model, protocol, and script: [example-1a-ide.mmt](https://raw.githubusercontent.com/myokit/pbmb-2016/main/example-1a-ide.mmt).
 To use it, download the file by right clicking the link above and selecting "Save link as", then open it in the IDE.
@@ -38,8 +40,20 @@ A version of example 1 that loads the model and protocol externally is given in 
 You can download this and [the required model file](https://raw.githubusercontent.com/myokit/models/main/c/tentusscher-2006.mmt) to try offline, or you can view the example [in your browser](example-1b-notebook.ipynb).
 
 ## Example 2
+_Called example-ttp-2-transmural-differences.mmt` in the paper._
 
-The [second example](example-2-transmural-differences.ipynb), follows up from example 1b, and shows how to change a model variable in a simulation.
+The [second example](example-2-transmural-differences.ipynb) follows up from example 1b, and shows how to change a model variable in a simulation.
+Some models, like the Ten Tusscher et al. one used in this example, have a variable used as a "mode switch".
+Here, we use this to show the three different cell types the model can represent.
+
+The example also shows how to save simulation data to CSV files and load it again for later processing.
+
+## Example 3
+_Called example-ttp-3-gto.mmt` in the paper._
+
+The [third example](example-3-gto.ipynb) uses the same technique as the second, but this time to explore the effects of varying the Ito conductance in the epicardial model.
+It also shows how to modify a model after loading it.
+
 
 
 

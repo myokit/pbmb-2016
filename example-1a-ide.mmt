@@ -634,9 +634,10 @@ d = s.run(1000)
 
 # Display the simulated membrane potential using Matplotlib
 import matplotlib.pyplot as plt
-plt.figure()
-plt.plot(d['engine.time'], d['membrane.V'])
-plt.xlabel('Time [ms]')
-plt.ylabel('Membrane potential [mV]')
+fig = plt.figure()
+ax = fig.add_subplot()
+ax.set_xlabel('Time (ms)')
+ax.set_ylabel('Membrane potential (mV)')
+ax.plot(d['engine.time'], d['membrane.V'])
 plt.show()
 
