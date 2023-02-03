@@ -1,8 +1,8 @@
 # Files accompanying the 2016 PBMB paper
 
-This repository contains example models and code accompanying the paper "[Myokit: A simple interface to cardiac cellular electrophysiology](https://doi.org/10.1016/j.pbiomolbio.2015.12.008)" that appeared in PBMB in 2016 (full citation info below).
+This repository contains example models and code accompanying the paper "[Myokit: A simple interface to cardiac cellular electrophysiology](https://doi.org/10.1016/j.pbiomolbio.2015.12.008)" that appeared in PBMB in 2016 (full citation info at the bottom of this page).
 
-![alt text](overview-v11.png)
+![A schematic overview of Myokit's main functionality](overview-v11.png)
 
 
 ## Example 1
@@ -28,9 +28,8 @@ m, p, _ = myokit.load('my-model.mmt')
 ```
 if both are in the same file (this also loads the script part as `_`).
 
-A version of example 1 that loads the model and protocol externally is given in the jupyter notebook [example-1b-notebook.ipynb](https://raw.githubusercontent.com/myokit/pbmb-2016/main/example-1a-ide.mmt).
-You can download this and the required model file, or view it in your browser using [github's viewer]() or the slightly nicer [nbviewer]().
-
+A version of example 1 that loads the model and protocol externally is given in the jupyter notebook [example-1b-notebook.ipynb](https://raw.githubusercontent.com/myokit/pbmb-2016/main/example-1b-notebook.ipynb).
+You can download this and [the required model file]() to try offline, or you can view the example in your browser using [github's viewer](example-1b-notebook.ipynb) or the slightly nicer [nbviewer](https://nbviewer.jupyter.org/github/myokit/myokit-pbmb-2016/blob/main/example-1b-notebook.ipynb).
 
 
 
