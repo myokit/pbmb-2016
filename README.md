@@ -1,6 +1,6 @@
 # Examples from the 2016 PBMB paper
 
-This repository contains example models and code accompanying the paper "Myokit: A simple interface to cardiac cellular electrophysiology]".
+This repository contains example models and code accompanying the paper:
 
 Michael Clerx, Pieter Collins, Enno de Lange, and Paul G.A. Volders.
 _Myokit: A simple interface to cardiac cellular electrophysiology_.
