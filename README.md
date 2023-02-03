@@ -29,7 +29,7 @@ m, p, _ = myokit.load('my-model.mmt')
 if both are in the same file (this also loads the script part as `_`).
 
 A version of example 1 that loads the model and protocol externally is given in the jupyter notebook [example-1b-notebook.ipynb](https://raw.githubusercontent.com/myokit/pbmb-2016/main/example-1b-notebook.ipynb).
-You can download this and [the required model file]() to try offline, or you can view the example in your browser using [github's viewer](example-1b-notebook.ipynb) or the slightly nicer [nbviewer](https://nbviewer.jupyter.org/github/myokit/myokit-pbmb-2016/blob/main/example-1b-notebook.ipynb).
+You can download this and [the required model file](https://raw.githubusercontent.com/myokit/models/main/c/tentusscher-2006.mmt) to try offline, or you can view the example in your browser using [github's viewer](example-1b-notebook.ipynb) or the slightly nicer [nbviewer](https://nbviewer.jupyter.org/github/myokit/pbmb-2016/blob/main/example-1b-notebook.ipynb).
 
 
 
