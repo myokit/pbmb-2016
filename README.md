@@ -4,7 +4,7 @@ This repository contains example models and code accompanying the paper "[Myokit
 
 ## Examples
 
-- The first example can be opened in the Myokit IDE (the Myokit "app") and contains a model, protocol, and script: [example-1a-ide.mmt](https://github.com/downloads/myokit/pbmb-2016/example-1a-ide.mmt). To use it, download the file by right clicking the link above
+- The first example can be opened in the Myokit IDE (the Myokit "app") and contains a model, protocol, and script: [example-1a-ide.mmt](https://raw.githubusercontent.com/myokit/pbmb-2016/example-1a-ide.mmt). To use it, download the file by right clicking the link above
 
 
 
