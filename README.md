@@ -73,12 +73,12 @@ The [sixth example](example-6-fiber-modified.ipynb) follows up from example 5, b
 This results in a gradual loss of the spike-and-dome shape of the APs.
 
 ## Example 7
+_Called example-ttp-7-transmural-plane.mmt in the paper._
 
+In [example 7](example-7-tissue.ipynb) we go one step further and simulate a 2d slice of tissue.
 
-
-
-
-
+## Example 8
+_Called example-multi-model-testing.mmt in the paper._
 
 ## Parameter estimation examples
 _Called example-parameter-estimation.mmt and example-parameter-estimation-2.mmt in the paper._
