@@ -11,6 +11,14 @@ An updated version of the schematic describing Myokit is shown below.
 
 ![A schematic overview of Myokit's main functionality](overview-v11.png)
 
+## Cloning this repository
+
+All examples can be viewed on github, without downloading.
+However, if you want to clone this repository, remember the models submodule and use:
+```
+git clone https://github.com/myokit/pbmb-2016.git --recursive
+```
+
 ## Example 1
 _Called example-ttp-1-model.mmt in the paper._
 
@@ -79,6 +87,8 @@ In [example 7](example-7-tissue.ipynb) we go one step further and simulate a 2d 
 
 ## Example 8
 _Called example-multi-model-testing.mmt in the paper._
+
+[Example 8](example-8-multi-model.ipynb) shows how to use multiple models, without having (a lot of) hardcoded information about each model.
 
 ## Parameter estimation examples
 _Called example-parameter-estimation.mmt and example-parameter-estimation-2.mmt in the paper._
