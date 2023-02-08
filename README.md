@@ -5,7 +5,7 @@ _Myokit: A simple interface to cardiac cellular electrophysiology_.
 Progress in Biophysics and Molecular Biology, Volume 120, issues 1-3, pages 100-114.
 [10.1016/j.pbiomolbio.2015.12.008](https://doi.org/10.1016/j.pbiomolbio.2015.12.008).
 
-This repository contains up-to-date example code, adapted from the files originally published with the paper cited above.
+This repository contains up-to-date example code, adapted from the files originally published with the paper.
 
 An updated version of the schematic describing Myokit is shown below.
 
